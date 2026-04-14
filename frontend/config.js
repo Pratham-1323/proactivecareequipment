@@ -1,5 +1,5 @@
 const CONFIG = {
     // Replace this with your Render backend URL when deployed
-    // e.g., 'https://proactive-equipment-care-backend.onrender.com'
-    API_BASE_URL: 'http://localhost:5000'
+    API_BASE_URL: 'https://proactivecareequipment.onrender.com'
+    // API_BASE_URL: 'http://localhost:5000'
 };
