@@ -1,5 +1,5 @@
 const CONFIG = {
     // Replace this with your Render backend URL when deployed
-    API_BASE_URL: 'https://abundant-unity-production-2527.up.railway.app'
-    // API_BASE_URL: 'http://localhost:5000'
+    // e.g., 'https://proactive-equipment-care-backend.onrender.com'
+    API_BASE_URL: 'http://localhost:5000'
 };
